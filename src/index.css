@@ -4,6 +4,14 @@ body {
   font-family: sans-serif;
 }
 
+input:hover {
+  cursor: pointer;
+}
+
+.d-none {
+  display: none;
+}
+
 .App {
   margin: 0% 5% 0% 5%;
   text-align: center;
